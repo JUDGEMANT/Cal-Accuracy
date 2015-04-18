@@ -1,0 +1,29 @@
+*****************POST SCREENING TEST DATA***************** : 
+UI Master SW Version Check : 7.01.00(P 1.7) , 5.09.00(IBP)	
+UI Peripheral SW Version Check : 4.03.00(P 1.7) , 4.04.00(IBP) 
+Pumphead SW Version Check :  2.07.00(P 1.7) , 2.08.00(IBP) 
+Upstream Occlusion test : 1~29
+Upstream Tube (no tubing loaded) : =0
+Downstream Tube  (no tubing loaded) : =0
+Upstream Tube (tubing loaded) : =1
+Downstream Tube  (tubing loaded) : =1
+******************AIR IN LINE SENSOR CHECK DATA************** : 
+Empty tubing (Air Filled Tubing) : 40~128
+Fluid-filled tubing (No Back Pressure)-1 reding : 190~230
+Fluid-filled tubing (with 1000 +5mbar backpressure) 1 Reading : 190~237
+Fluid-filled tubing (No Back Pressure)-2 reding : 190~230
+Fluid-filled tubing (with 1000 +5mbar backpressure) 2 Reading : 190~237
+Fluid-filled tubing (No Back Pressure)-3 reding : 190~230
+Fluid-filled tubing (with 1000 +5mbar backpressure) 3 Reading : 190~237
+******************OCCLUSION TEST DATA ***************** : 
+138 mbar range  50-270 mbar : 50~270
+138 mbar range <480 sec/<8 min : 1~479
+276 mbar range 138-470 mbar : 138~470
+276 mbar range <30 sec : 1~29
+552 mbar range 342-798 mbar: 324~798
+552 mbar range <60 sec : 1~59
+828 mbar range 547-1129 mbar : 547~1129
+828 mbar range <75 sec : 1~74
+*******************ACCURACY TEST DATA******************* : 
+100 mL/hr (12 minute) test : 19.300(P 1.7) , 20.600(IBP)
+10 mL/hr (1 hour) test : 9.700(P 1.7) , 10.300(IBP)
